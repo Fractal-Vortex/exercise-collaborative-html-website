@@ -14,7 +14,7 @@ Cada alumno trabajará en un archivo diferente para cada parte diferente del sit
 3. Cada colaborador tendrá que clonar el nuevo repositorio forkeado por el líder de equipo y desarrollar una parte del sitio web escogido, cada proyecto está dividido en partes dentro del directorio `website/templates/`. Cuando todos tengan su editor de código abierto, pueden iniciar el proyecto con este comando:
 
 ```bash
-$ npx http-server --yes -c-1
+$ clae
 ```
 
 + Se te ofrecerá una opción para abrirlo en el navegador y tendrás botones para ver el sitio en vivo, cómo debería verse y las referencias sobre cada parte del sitio web. Si recibes un error, espera un momento y refresca la página.
@@ -48,7 +48,7 @@ c) Indícale a tus estudiantes o a los miembros de tu equipo que clonen el repos
 Para cargar y ver tu sitio web en vivo, ejecuta el siguiente comando:
 
 ```bash
-$ git
+$ npx http-server --yes -c-1
 ```
 
 ## Implementar el sitio web
